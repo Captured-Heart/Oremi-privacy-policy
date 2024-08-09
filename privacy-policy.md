@@ -1,7 +1,7 @@
 Privacy Policy  
 ----------------
 
-This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
+This Privacy Policy describes Our policies and procedures on the collection, use, and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
 We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the Free Privacy Policy Generator.
 
@@ -14,7 +14,7 @@ For the purposes of this Privacy Policy:
 
 Account means a unique account created for You to access our Service or parts of our Service.
 
-Affiliate means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
+Affiliate means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest, or other securities entitled to vote for the election of directors or other managing authority.
 
 Application refers to Oremi, the software program provided by the Company.
 
@@ -22,7 +22,7 @@ Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreem
 
 Country refers to: Nigeria
 
-Device means any device that can access the Service such as a computer, a cellphone or a digital tablet.
+Device means any device that can access the Service such as a computer, a cellphone, or a digital tablet.
 
 Personal Data is any information that relates to an identified or identifiable individual.
 
@@ -52,9 +52,9 @@ While using Our Service, We may ask You to provide Us with certain personally id
 
 
 ### Cookies  
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
+Cookies are files with a small amount of data that is commonly used as an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your device’s internal memory.  
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
 ### Location Information  
 None of the services makes use of location information transmitted from users' mobile phones.
@@ -71,29 +71,29 @@ You may also have the option of sharing additional information with the Company 
 ### Use of Your Personal Data
 The Company may use Personal Data for the following purposes:
 
-- To provide and maintain our Service, including to monitor the usage of our Service.
+- To provide and maintain our Service, including monitoring the usage of our Service.
 
 - To manage Your Account: to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.
 
-- For the performance of a contract: the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.
+- For the performance of a contract: the development, compliance, and undertaking of the purchase contract for the products, items, or services You have purchased or of any other contract with Us through the Service.
 
-- To contact You: To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.
+- To contact You: To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products, or contracted services, including the security updates, when necessary or reasonable for their implementation.
 
-- To provide You with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.
+- To provide You with news, special offers, and general information about other goods, services, and events that we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.
 
 - To manage Your requests: To attend and manage Your requests to Us.
 
 - For business transfers: We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Data held by Us about our Service users is among the assets transferred.
 
-- For other purposes: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience.
+- For other purposes: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns, and evaluating and improving our Service, products, services, marketing, and your experience.
 
 We may share Your personal information in the following situations:
 
 ### Service Providers  
 We may share Your personal information with Service Providers to monitor and analyze the use of our Service, to contact You.
-*With Affiliates*: We may share Your information with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners or other companies that We control or that are under common control with Us.
-*With business partners*: We may share Your information with Our business partners to offer You certain products, services or promotions.
-*With other users*: when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside. If You interact with other users or register through a Third-Party Social Media Service, Your contacts on the Third-Party Social Media Service may see Your name, profile, pictures and description of Your activity. Similarly, other users will be able to view descriptions of Your activity, communicate with You and view Your profile.
+*With Affiliates*: We may share Your information with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners, or other companies that We control or that are under common control with Us.
+*With business partners*: We may share Your information with Our business partners to offer You certain products, services, or promotions.
+*With other users*: When you share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside. If You interact with other users or register through a Third-Party Social Media Service, Your contacts on the Third-Party Social Media Service may see Your name, profile, pictures and description of Your activity. Similarly, other users will be able to view descriptions of Your activity, communicate with You, and view Your profile.
 *With Your consent*: We may disclose Your personal information for any other purpose with Your consent.
 
 ### Retention of Your Personal Data
@@ -102,7 +102,7 @@ The Company will retain Your Personal Data only for as long as is necessary for 
 The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of Our Service, or We are legally obligated to retain this data for longer time periods.
 
 ### Transfer of Your Personal Data
-Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to — and maintained on — computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.
+Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to — and maintained on — computers located outside of Your state, province, country, or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.
 
 Your consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.
 
@@ -143,9 +143,9 @@ This Service addresses anyone above the age of 5. We do not knowingly collect pe
 If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
 
 ### Links to Other Websites
-Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
+Our Service may contain links to other websites that are not operated by Us. If You click on a third-party link, You will be directed to that third-party's site. We strongly advise You to review the Privacy Policy of every site You visit.
 
-We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+We have no control over and assume no responsibility for the content, privacy policies, or practices of any third party sites or services.
 ### Updates. 
 We may change the Oremi App, including, without limitation, making improvements or alterations to functionalities, adding or removing features, and providing bug fixes and patches, with or without notice to You. Based on Your phone settings, when Your phone is connected to the internet. You may receive notice of or be prompted to download and install available updates. 
 ### Changes to this Privacy Policy
@@ -159,4 +159,5 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions or suggestions about this Privacy Policy, You can contact us:
 
 *By email*: connect.me.assist@gmail.com
-*By twitter(X)*: @_captured_heart 
+
+*By Twitter(X)*: @_captured_heart 
